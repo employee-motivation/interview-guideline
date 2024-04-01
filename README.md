@@ -1,5 +1,5 @@
 # Employee Motivation in Cybersecurity
-Cyberattacks pose a substantial threat to organizations. Typically, attackers target employees with phishing attacks. This is why employees are an organization's last line of defense. Thus, it is crucial for organizations to motivate their employees to behave security-compliantly. We conducted interviews with managers, security specialists, and employees to identify which motivating factors organizations use to motivate their employees. In the following, we outline the interview questionnaire.
+Cyberattacks pose a substantial threat to organizations. Typically, attackers target employees with phishing attacks. This is why employees are an organization's last line of defense. Thus, organizations must motivate their employees to behave security-compliantly. We interviewed managers, security specialists, and employees to identify which factors organizations use to motivate their employees. In the following, we outline the interview questionnaire.
 
 ## 1. Demographic Questions
 
